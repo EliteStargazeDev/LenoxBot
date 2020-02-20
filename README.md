@@ -27,3 +27,4 @@ You can find the whole instructions to download and how to configure the bot in 
 ## License
 
 MIT
+[![Run on Repl.it](https://repl.it/badge/github/LenoxBot/LenoxBot)](https://repl.it/github/LenoxBot/LenoxBot)

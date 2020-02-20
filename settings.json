@@ -1,8 +1,8 @@
 {
     "owners": ["Required", "UserID", "UserID"],
     "administrators": ["UserID", "UserID", "UserID"],
-    "token": "Required. Your Super Secret Token",
-    "prefix": "Required. Standard Prefix",
+    "token": "Njc5NTE3NDg2NDc5MzEwODY4.Xk7OzQ.YY-1W982CF30WjAS7RE1wdUnzUY",
+    "prefix": "-",
     "auddKey": "Audd Lyrics API Key",
     "googleKey": "Google Custom Search API Key",
     "googlekey": "Youtube API key",
@@ -10,14 +10,14 @@
     "clientSecret_Auth": "Client Secret Auth",
     "callbackURL_Auth": "Callback URL Auth",
     "dbl_apikey": "Your Discord Bot List API Token",
-    "websitehostname": "Required. Example: localhost for local use",
-    "websiteport": "Required. Port of the website (For HTTPS use port 80)",
+    "websitehostname": "localhost",
+    "websiteport": "80",
     "keychannel": "Required. Discord Textchannel ID where all premium keys should be posted in",
     "db": {
         "user": "Required. db user",
 		"password": "Required. db password",
-		"host": "Required. db host (Example: localhost for local mongoDB)",
-		"port": "Required. db port (Example: 27017)"
+		"host": "localhost",
+		"port": "27017"
     },
     "dblAuthorization": "Autorization Code for API verification",
     "botMainDiscordServer": "Required. The main/support Discord Server ID of this bot",
